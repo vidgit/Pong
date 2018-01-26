@@ -1,0 +1,12 @@
+
+*.meta
+Library/*
+Temp/*
+ProjectSettings/*
+UnityPackageManager\*
+*.info
+
+.gitignore.txt
+Assembly-CSharp.csproj
+UnityPackageManager/manifest.json
+Pong.userprefs
